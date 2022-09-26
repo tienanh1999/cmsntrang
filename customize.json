@@ -2,5 +2,5 @@
   "name": "Trang",
   "greetingText": "Đây là món quả nhỏ anh tự làm tặng em...",
   "wishText": "Hi vọng em vui vẻ khi xem cái này ;)",
-  "imagePath": "img/Trang.jpg"
+  "imagePath": "./img/Trang.jpg"
 }
